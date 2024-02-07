@@ -1,6 +1,3 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # Project-001 :Survey Form (HC-01)
 
 ## Description
@@ -25,10 +22,6 @@ Project aims to create survey form within html and css.
         |----style.css   
         |----result.html 
 ```
-
-## Expected Outcome
-
-![Project  Snapshot](./project_01.png)
 
 ## Objective
 
@@ -92,11 +85,3 @@ Functionally create a Survey Form as in the image above
 ## Notes
 
 - You can use HTML,and CSS to complete this project.
-
-## Resources
-
--  [Background Image Url](./background_image.jpg)
-
-
-<p align="center"> &#8987; <strong>Happy Coding</strong>  &#9997; </p>
-
